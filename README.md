@@ -61,7 +61,7 @@ avg_supportiveness - average supportiveness for coping with homesickness score f
 ## Prototype
 DiaryPrototypeWalkthrough shows interacting with all thirteen prototype screens. These screens can be statically seen in the images added to this repository under the same branch. 
 
-## Prototype instructions
+### Prototype instructions
 The prototype source file is found under the name DiaryPrototypeSource.fig. This can be ran through Figma, either online through their website or through the Figma app by downloading this file and opening it in Figma.
 
 
