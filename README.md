@@ -8,8 +8,8 @@ Because of the nature of this markdown cell, the nice overview I tried to make a
 .
 +-- data/ \
 |   +-- rawdata/ \
-|   |   +-- raw_PreQuestionnaireAnonymized.csv \
-|   |   +-- raw_ListeningTaskFinalAnonymized.csv \
+|   |   +-- raw_PreQuestionnaireAnonymized.csv
+|   |   +-- raw_ListeningTaskFinalAnonymized.csv
 |   +-- cleandata/
 |   |   +-- data_analysis/
 |   |   |   +-- cleaned_PreQuestionnaireAnonymized.csv
