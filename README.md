@@ -36,48 +36,48 @@ Because of the nature of this markdown cell, the nice overview I tried to make a
 |   +-- dataresults/
 |   |   +-- listening_task_means_sd_variance.csv
 |   |   +-- UHS_correlation_results.csv
-+-- prototype/
-|   +-- video/
-|   |   +-- DiaryPrototypeWalkthrough.mp4
-|   +-- source/
-|   |   +-- DiaryPrototypeSource.fig
-|   +-- assets/
-|   |   +-- PrototypeDiaryScreen.png
-|   |   +-- PrototypeDiary2Screen.png
-|   |   +-- PrototypeDiary3Screen.png
-|   |   +-- PrototypeDiary4Screen.png
-|   |   +-- PrototypeHomeLoggedInScreen.png
-|   |   +-- PrototypeHomeLoginScreen.png
-|   |   +-- PrototypePlaylistCreateScreen.png
-|   |   +-- PrototypePlaylistDiaryScreen.png
-|   |   +-- PrototypePlaylistScreen.png
-|   |   +-- PrototypeRecordingDiaryScreen.png
-|   |   +-- PrototypeRecordingsScreen.png
-|   |   +-- PrototypeUploadingMenuScreen.png
-|   |   +-- PrototypeUploadScreen.png
-|   |   +-- Rec1.wav
-|   |   +-- Rec2.wav
-|   |   +-- Rec3.wav
-|   |   +-- Rec4.wav
-|   |   +-- Rec5.wav
-|   |   +-- Rec6.wav
-|   |   +-- Rec7.wav
-|   |   +-- Rec8.wav
-|   |   +-- Rec9.wav
-|   |   +-- Rec10.wav
-|   |   +-- Rec11.wav
-|   |   +-- Rec12.wav
-|   |   +-- Rec13.wav
-|   |   +-- Rec14.wav
-|   |   +-- Rec15.wav
-|   |   +-- Rec16.wav
-|   |   +-- Rec17.wav
-|   |   +-- Rec18.wav
-|   |   +-- Rec19.wav
-|   |   +-- Rec20.wav
-|   |   +-- Rec21.wav
-|   |   +-- Rec22.wav
-|   |   +-- Rec23.wav
+|   +-- prototype/
+|   |   +-- video/
+|   |   |   +-- DiaryPrototypeWalkthrough.mp4
+|   |   +-- source/
+|   |   |   +-- DiaryPrototypeSource.fig
+|   |   +-- assets/
+|   |   |   +-- PrototypeDiaryScreen.png
+|   |   |   +-- PrototypeDiary2Screen.png
+|   |   |   +-- PrototypeDiary3Screen.png
+|   |   |   +-- PrototypeDiary4Screen.png
+|   |   |   +-- PrototypeHomeLoggedInScreen.png
+|   |   |   +-- PrototypeHomeLoginScreen.png
+|   |   |   +-- PrototypePlaylistCreateScreen.png
+|   |   |   +-- PrototypePlaylistDiaryScreen.png
+|   |   |   +-- PrototypePlaylistScreen.png
+|   |   |   +-- PrototypeRecordingDiaryScreen.png
+|   |   |   +-- PrototypeRecordingsScreen.png
+|   |   |   +-- PrototypeUploadingMenuScreen.png
+|   |   |   +-- PrototypeUploadScreen.png
+|   |   |   +-- Rec1.wav
+|   |   |   +-- Rec2.wav
+|   |   |   +-- Rec3.wav
+|   |   |   +-- Rec4.wav
+|   |   |   +-- Rec5.wav
+|   |   |   +-- Rec6.wav
+|   |   |   +-- Rec7.wav
+|   |   |   +-- Rec8.wav
+|   |   |   +-- Rec9.wav
+|   |   |   +-- Rec10.wav
+|   |   |   +-- Rec11.wav
+|   |   |   +-- Rec12.wav
+|   |   |   +-- Rec13.wav
+|   |   |   +-- Rec14.wav
+|   |   |   +-- Rec15.wav
+|   |   |   +-- Rec16.wav
+|   |   |   +-- Rec17.wav
+|   |   |   +-- Rec18.wav
+|   |   |   +-- Rec19.wav
+|   |   |   +-- Rec20.wav
+|   |   |   +-- Rec21.wav
+|   |   |   +-- Rec22.wav
+|   |   |   +-- Rec23.wav
 +-- README.md
 ```
 ## Data Analysis
