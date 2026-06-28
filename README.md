@@ -2,9 +2,62 @@
 This repository contains all data, information, and additional files needed to gain a comprehensive overview of my thesis.
 Data includes analysis and transcription notebooks, raw and cleaned anonymized datasets, all correlation results and listening task results, a Figma Prototype source file and walkthrough video, mp3s of all recordings used in listening tasks, and images of all Figma prototype screens.
 
+## Folder Structure
+.
++-- data/
+|   +-- rawdata/
+|   |   +-- raw_PreQuestionnaireAnonymized.csv
+|   |   +-- raw_ListeningTaskFinalAnonymized.csv
+|   +-- cleandata/
+|   |   +-- data_analysis/
+|   |   |   +-- cleaned_PreQuestionnaireAnonymized.csv
+|   |   |   +-- cleaned_ListeningTaskFinalAnonymized.csv
+|   |   +-- interview-transcripts/
+|   |   |   +-- INTERVIEWTRANSCRIPT1.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT2.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT3.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT4.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT5.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT6.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT7.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT8.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT9.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT10.pdf
+|   |   |   +-- INTERVIEWTRANSCRIPT11.pdf
+|   |   +-- thinkaloud-transcripts/
+|   |   |   +-- THINKALOUDTRANSCRIPT1.pdf
+|   |   |   +-- THINKALOUDTRANSCRIPT2.pdf
+|   |   |   +-- THINKALOUDTRANSCRIPT3.pdf
+|   +-- scripts/
+|   |   +-- 01_data_analysis.iypnb
+|   |   +-- 02_transcription_script.ipynb
+|   +-- dataresults/
+|   |   +-- listening_task_means_sd_variance.csv
+|   |   +-- UHS_correlation_results.csv
++-- prototype/
+|   +-- video/
+|   |   +-- DiaryPrototypeWalkthrough.mp4
+|   +-- source/
+|   |   +-- DiaryPrototypeSource.fig
+|   +-- assets/
+|   |   +-- PrototypeDiaryScreen.png
+|   |   +-- PrototypeDiary2Screen.png
+|   |   +-- PrototypeDiary3Screen.png
+|   |   +-- PrototypeDiary4Screen.png
+|   |   +-- PrototypeHomeLoggedInScreen.png
+|   |   +-- PrototypeHomeLoginScreen.png
+|   |   +-- PrototypePlaylistCreateScreen.png
+|   |   +-- PrototypePlaylistDiaryScreen.png
+|   |   +-- PrototypePlaylistScreen.png
+|   |   +-- PrototypeRecordingDiaryScreen.png
+|   |   +-- PrototypeRecordingsScreen.png
+|   |   +-- PrototypeUploadingMenuScreen.png
+|   |   +-- PrototypeUploadScreen.png
++-- README.md
+
 ## Data Analysis
 Data analysis was done through the 01_data_analysis.ipynb script, by using cleaned_ListeningTaskFinalAnonymized and cleaned_PreQuestionnaireAnonymized, but in non-anonymized versions containing identifiers which will are included in this repository. 
-Comprehensive comments in 01_data_analysis.ipynb show when, where, and why specific data cleaning was done
+Comprehensive comments in 01_data_analysis.ipynb show when, where, and why specific data cleaning was done.
 
 ## Transcription
 Transcription of all 11 participant interviews and 3 think-aloud sessions was done fully locally by using the 02_transcription_script.ipynb. As the comments in this script state, different languages for transcription could be specified, as well as the file names for the transcription of the correct file and storage under a specified name.
