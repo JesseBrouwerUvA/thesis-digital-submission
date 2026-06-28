@@ -12,29 +12,29 @@ Transcrip
 ## Recordings and their labels
 Rec1 through Rec23 contain the audio of the 23 unique voice recordings used during the listening task within the interviews. The following labels correspond with those recordings:
 \
-Rec1 - 
-Rec2 - 
-Rec3 - 
-Rec4 - 
-Rec5 - 
-Rec6 - 
-Rec7 - 
-Rec8 - 
-Rec9 - 
-Rec10 - 
-Rec11 - 
-Rec12 - 
-Rec13 - 
-Rec14 - 
-Rec15 - 
-Rec16 - 
-Rec17 - 
-Rec18 - 
-Rec19 - 
-Rec20 - 
-Rec21 - 
-Rec22 - 
-Rec23 - 
+Rec1 - \
+Rec2 - \
+Rec3 - \
+Rec4 - \
+Rec5 - \
+Rec6 - \
+Rec7 - \
+Rec8 - \
+Rec9 - \
+Rec10 - \
+Rec11 - \
+Rec12 - \
+Rec13 - \
+Rec14 - \
+Rec15 - \
+Rec16 - \
+Rec17 - \
+Rec18 - \
+Rec19 - \
+Rec20 - \
+Rec21 - \
+Rec22 - \
+Rec23 - \
 
 ## Statistical Results
 Correlation results between the average Utrecht Homesickness Scale scores and listening task results can be seen in UHS_correlation_results.csv. The means, variances, and standard deviations of each recording type for each variable, being personalness/genericness, meaningfulness, and supportiveness for coping with homesickness, can be seen in listening_task_means_sd_variance.csv.
