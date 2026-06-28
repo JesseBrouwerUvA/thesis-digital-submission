@@ -3,11 +3,13 @@ This repository contains all data, information, and additional files needed to g
 Data includes analysis and transcription notebooks, raw and cleaned anonymized datasets, all correlation results and listening task results, a Figma Prototype source file and walkthrough video, mp3s of all recordings used in listening tasks, and images of all Figma prototype screens.
 
 ## Folder Structure
+Because of the nature of this markdown cell, the nice overview I tried to make as text does not work. Instead, please look at the FolderStructure.png in the main branch to see the full folder structure of this repository.
+```text
 .
 +-- data/ \
 |   +-- rawdata/ \
-|     |   +-- raw_PreQuestionnaireAnonymized.csv \
-|     |   +-- raw_ListeningTaskFinalAnonymized.csv \
+|   |   +-- raw_PreQuestionnaireAnonymized.csv \
+|   |   +-- raw_ListeningTaskFinalAnonymized.csv \
 |   +-- cleandata/
 |   |   +-- data_analysis/
 |   |   |   +-- cleaned_PreQuestionnaireAnonymized.csv
@@ -53,8 +55,31 @@ Data includes analysis and transcription notebooks, raw and cleaned anonymized d
 |   |   +-- PrototypeRecordingsScreen.png
 |   |   +-- PrototypeUploadingMenuScreen.png
 |   |   +-- PrototypeUploadScreen.png
+|   |   +-- Rec1.wav
+|   |   +-- Rec2.wav
+|   |   +-- Rec3.wav
+|   |   +-- Rec4.wav
+|   |   +-- Rec5.wav
+|   |   +-- Rec6.wav
+|   |   +-- Rec7.wav
+|   |   +-- Rec8.wav
+|   |   +-- Rec9.wav
+|   |   +-- Rec10.wav
+|   |   +-- Rec11.wav
+|   |   +-- Rec12.wav
+|   |   +-- Rec13.wav
+|   |   +-- Rec14.wav
+|   |   +-- Rec15.wav
+|   |   +-- Rec16.wav
+|   |   +-- Rec17.wav
+|   |   +-- Rec18.wav
+|   |   +-- Rec19.wav
+|   |   +-- Rec20.wav
+|   |   +-- Rec21.wav
+|   |   +-- Rec22.wav
+|   |   +-- Rec23.wav
 +-- README.md
-
+```
 ## Data Analysis
 Data analysis was done through the 01_data_analysis.ipynb script, by using cleaned_ListeningTaskFinalAnonymized and cleaned_PreQuestionnaireAnonymized, but in non-anonymized versions containing identifiers which will are included in this repository. 
 Comprehensive comments in 01_data_analysis.ipynb show when, where, and why specific data cleaning was done.
