@@ -4,10 +4,10 @@ Data includes analysis and transcription notebooks, raw and cleaned anonymized d
 
 ## Folder Structure
 .
-+-- data/
-|   +-- rawdata/
-|   |   +-- raw_PreQuestionnaireAnonymized.csv
-|   |   +-- raw_ListeningTaskFinalAnonymized.csv
++-- data/ \
+|   +-- rawdata/ \
+|   |   +-- raw_PreQuestionnaireAnonymized.csv \
+|   |   +-- raw_ListeningTaskFinalAnonymized.csv \
 |   +-- cleandata/
 |   |   +-- data_analysis/
 |   |   |   +-- cleaned_PreQuestionnaireAnonymized.csv
