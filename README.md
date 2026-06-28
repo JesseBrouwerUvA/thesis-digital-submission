@@ -9,19 +9,8 @@ Comprehensive comments in 01_data_analysis.ipynb show when, where, and why speci
 ## Transcription
 Transcrip
 
-## Statistical Results
-Correlation results between the average Utrecht Homesickness Scale scores and listening task results can be seen in UHS_correlation_results.csv. The means, variances, and standard deviations of each recording type for each variable, being personalness/genericness, meaningfulness, and supportiveness for coping with homesickness, can be seen in listening_task_means_sd_variance.csv.
-### Extra note for correct interpretation of these results
-listening_task_means_sd_variance.csv contains
-
-## Prototype
-DiaryPrototypeWalkthrough shows interacting with all thirteen prototype screens. These screens can be statically seen in the images added to this repository under the same branch. 
-
-## Prototype instructions
-The prototype source file is found under the name DiaryPrototypeSource.fig. This can be ran through Figma, either online through their website or through the Figma app by downloading this file and opening it in Figma.
-
 ## Recordings and their labels
-Rec1 through Rec23 contain the audio of the 23 voice recordings used during the listening task within the interviews. The following labels correspond with those recordings:
+Rec1 through Rec23 contain the audio of the 23 unique voice recordings used during the listening task within the interviews. The following labels correspond with those recordings:
 Rec1 - 
 Rec2 - 
 Rec3 - 
@@ -46,7 +35,21 @@ Rec21 -
 Rec22 - 
 Rec23 - 
 
-## Recording categories
+## Statistical Results
+Correlation results between the average Utrecht Homesickness Scale scores and listening task results can be seen in UHS_correlation_results.csv. The means, variances, and standard deviations of each recording type for each variable, being personalness/genericness, meaningfulness, and supportiveness for coping with homesickness, can be seen in listening_task_means_sd_variance.csv.
+### Extra note for correct interpretation of these results
+listening_task_means_sd_variance.csv contains a column named 'Recording', which only contains the numbers 1 through 5; these correspond to recoring **categories**, not individual recordings as stated above. Each participant heard five recordings, one for each category. The recording categories are:
+1. A speaker from a different country than your native country, talking in an unfamiliar language about the weather.
+2. A speaker from a different country than your native country, giving a historical speech in an unfamiliar language.
+3. A speaker from your native country, talking in your native language about the weather.
+4. A speaker from your native country, talking in your native language about the weather.
+5. A speaker from your native country, talking in your native language about the weather.
+
+## Prototype
+DiaryPrototypeWalkthrough shows interacting with all thirteen prototype screens. These screens can be statically seen in the images added to this repository under the same branch. 
+
+## Prototype instructions
+The prototype source file is found under the name DiaryPrototypeSource.fig. This can be ran through Figma, either online through their website or through the Figma app by downloading this file and opening it in Figma.
 
 
 
