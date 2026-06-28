@@ -40,7 +40,7 @@ Data includes analysis and transcription notebooks, raw and cleaned anonymized d
 |   |   |   +-- DiaryPrototypeWalkthrough.mp4
 |   |   +-- source/
 |   |   |   +-- DiaryPrototypeSource.fig
-|   |   +-- assets/
+|   |   +-- prototypeassets/
 |   |   |   +-- PrototypeDiaryScreen.png
 |   |   |   +-- PrototypeDiary2Screen.png
 |   |   |   +-- PrototypeDiary3Screen.png
