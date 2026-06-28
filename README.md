@@ -7,7 +7,9 @@ Data analysis was done through the 01_data_analysis.ipynb script, by using clean
 Comprehensive comments in 01_data_analysis.ipynb show when, where, and why specific data cleaning was done
 
 ## Transcription
-Transcrip
+Transcription of all 11 participant interviews and 3 think-aloud sessions was done fully locally by using the 02_transcription_script.ipynb. As the comments in this script state, different languages for transcription could be specified, as well as the file names for the transcription of the correct file and storage under a specified name.
+
+All 11 interview transcripts can be found under INTERVIEWTRANSCRIPT1.pdf through INTERVIEWTRANSCRIPT13.pdf. The highlighted text (purple-ish), is of the interviewer. All other text, so the unhighlighted text, is of the interviewee.
 
 ## Recordings and their labels
 Rec1.wav through Rec23.wav contain the audio of the 23 unique voice recordings used during the listening task within the interviews. The following descriptions correspond with those recordings:
