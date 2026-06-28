@@ -10,31 +10,31 @@ Comprehensive comments in 01_data_analysis.ipynb show when, where, and why speci
 Transcrip
 
 ## Recordings and their labels
-Rec1 through Rec23 contain the audio of the 23 unique voice recordings used during the listening task within the interviews. The following labels correspond with those recordings:
+Rec1.wav through Rec23.wav contain the audio of the 23 unique voice recordings used during the listening task within the interviews. The following descriptions correspond with those recordings:
 \
-Rec1 - \
-Rec2 - \
-Rec3 - \
-Rec4 - \
-Rec5 - \
-Rec6 - \
-Rec7 - \
-Rec8 - \
-Rec9 - \
-Rec10 - \
-Rec11 - \
-Rec12 - \
-Rec13 - \
-Rec14 - \
-Rec15 - \
-Rec16 - \
-Rec17 - \
-Rec18 - \
-Rec19 - \
-Rec20 - \
-Rec21 - \
-Rec22 - \
-Rec23 - \
+Rec1 - Weather report about France, in French. \
+Rec2 - Historical speech about France by Simone Veil, in French. \
+Rec3 - Weather report about USA, in American English. \
+Rec4 - Weather report about the Netherlands, in Dutch. \
+Rec5 - Weather report about Bulgaria, in Bulgarian. \
+Rec6 - Weather report about Iran, in Farsi. \
+Rec7 - Weather report about Greece, in Greek. \
+Rec8 - Weather report about Canada, in Canadian English. \
+Rec9 - Weather report about Ireland, in Irish English. \
+Rec10 - Historical speech about USA by John F. Kennedy, in American English, about going to the moon. \
+Rec11 - Historical speech about the Netherlands by Queen Máxima der Nederlanden, in Dutch, about identification with the Netherlands. \
+Rec12 - Historical speech about Bulgaria by Rumen Radev, in Bulgarian, about a progressive Bulgarian future. \
+Rec13 - Historical speech about Iran by Ayatullah Khamenei, in Farsi, about assisting Palestine. \
+Rec14 - Historical speech about Greece by Alexis Tsipras, in Greek, about the Greek government. \
+Rec15 - Historical speech about Canada by Mark Carney, about stopping Canada's reliance on global institutions. \
+Rec16 - Historical speech about Ireland by Mary Robinson, about her inauguration. \
+Rec17 - National holiday video about Thanksgiving in the USA, in American English. \
+Rec18 - National holiday video about Koningsdag in the Netherlands, in Dutch. \
+Rec19 - National holiday video about Bulgarian Liberation Day, in Bulgarian. \
+Rec20 - National holiday video about Iranian Nowruz, in Farsi. \
+Rec21 - National holiday video about Greek Easter, in Greek. \
+Rec22 - National holiday video about Canada Day, in Canadian English. \
+Rec23 - National holiday video about St. Patrick's Day, in Irish English.
 
 ## Statistical Results
 Correlation results between the average Utrecht Homesickness Scale scores and listening task results can be seen in UHS_correlation_results.csv. The means, variances, and standard deviations of each recording type for each variable, being personalness/genericness, meaningfulness, and supportiveness for coping with homesickness, can be seen in listening_task_means_sd_variance.csv.
