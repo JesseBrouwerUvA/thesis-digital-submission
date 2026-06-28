@@ -6,8 +6,8 @@ Data includes analysis and transcription notebooks, raw and cleaned anonymized d
 Because of the nature of this markdown cell, the nice overview I tried to make as text does not work. Instead, please look at the FolderStructure.png in the main branch to see the full folder structure of this repository.
 ```text
 .
-+-- data/ \
-|   +-- rawdata/ \
++-- data/ 
+|   +-- rawdata/ 
 |   |   +-- raw_PreQuestionnaireAnonymized.csv
 |   |   +-- raw_ListeningTaskFinalAnonymized.csv
 |   +-- cleandata/
